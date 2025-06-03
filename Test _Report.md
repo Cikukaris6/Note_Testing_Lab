@@ -1,7 +1,7 @@
 🧪 Functional Testing Report
 👤 Student Information
-Full Name: Ciku Karis
-Cohort: May 2025
+Full Name: Wanjiku Kariuki
+Cohort: February Cohort 2025
 Date: June 3, 2025
 
 🧪 What I Tested
