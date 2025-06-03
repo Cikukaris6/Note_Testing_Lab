@@ -17,7 +17,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/note-taking-app.git
+git clone https://github.com/Cikukaris6/Note_Testing_Lab
 Navigate to the project folder:
 
 bash
