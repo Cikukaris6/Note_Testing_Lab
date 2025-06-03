@@ -37,7 +37,7 @@ bash
 Copy
 Edit
 npm start
-Then open your browser and go to http://localhost:3000 (or whichever port your app uses).
+Then open your browser and go to http://127.0.0.1:5500/index.html (or whichever port your app uses).
 
 Testing
 Run tests with Jest:
